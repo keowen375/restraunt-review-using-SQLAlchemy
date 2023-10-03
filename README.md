@@ -55,7 +55,7 @@ git clone https:git@github.com:keowen375/restraunt-review-using-SQLAlchemy.git
 
 ```
 
-cd The-Python-Restaurant-SQLAlchemy/lib
+cd restraunt-review-using-SQLAlchemy
 
 ```
 
