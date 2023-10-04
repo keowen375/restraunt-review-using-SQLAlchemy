@@ -5,13 +5,13 @@
 
 ### Customer Class:
 
-<li> Represents individual customers who review restaurants .
+<li> Represents individual customers who review restaurants.
 
 <li> Stores customer information such as first name and last name.
 <li> Tracks the restaurants that the customer has reviewed and the reviews they
     have written.
 <li> Provides methods to retrieve a list of reviews given by the customer,
-     restaurants reviewed, the customer's full name, and their favorite restaurant. It also allows customers to add reviews and delete all reviews for a specific restaurant .
+     restaurants reviewed, the customer's full name, and their favorite restaurant. It also allows customers to add reviews and delete all reviews for a specific restaurant.
 
 ### Restaurant Class:
 
@@ -55,7 +55,7 @@ git clone https:git@github.com:keowen375/restraunt-review-using-SQLAlchemy.git
 
 ```
 
-cd restraunt-review-using-SQLAlchemy
+cd restaurant-review-using-SQLAlchemy
 
 ```
 
@@ -69,7 +69,7 @@ pipenv install
 
 ```
 
-### 4. Enter the virtual enviroment
+### 4. Enter the virtual environment
 
 ```
 
