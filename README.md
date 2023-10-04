@@ -5,7 +5,7 @@
 
 ### Customer Class:
 
-<li> Represents individual customers who review restaurants.
+<li> Represents individual customers who review restaurants .
 
 <li> Stores customer information such as first name and last name.
 <li> Tracks the restaurants that the customer has reviewed and the reviews they
