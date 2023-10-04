@@ -11,7 +11,7 @@
 <li> Tracks the restaurants that the customer has reviewed and the reviews they
     have written.
 <li> Provides methods to retrieve a list of reviews given by the customer,
-     restaurants reviewed, the customer's full name, and their favorite restaurant. It also allows customers to add reviews and delete all reviews for a specific restaurant.
+     restaurants reviewed, the customer's full name, and their favorite restaurant. It also allows customers to add reviews and delete all reviews for a specific restaurant .
 
 ### Restaurant Class:
 
